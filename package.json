@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honeybee-overfly/express-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/honeybee-overfly/express-practice/issues"
+  },
+  "homepage": "https://github.com/honeybee-overfly/express-practice#readme"
 }
